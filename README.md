@@ -12,3 +12,6 @@ Then Run Main.py file in the terminal
 6. Then you need to train the model
 7. After that you can recognize from webcam
 8. Also you can recognize from the uploaded picture 
+
+Also i have Tried to implement the Anti spoofing technique using Blink detection. 
+To checkout that run the EAR.py script for that you need to download shape_predictor_68_face_landmarks.dat file from internet 
